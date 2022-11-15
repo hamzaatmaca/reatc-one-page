@@ -1,0 +1,13 @@
+@import url("./nav.css");
+@import url("./slider.css");
+@import url("./button.css");
+@import url("./featured.css");
+@import url("./card.css");
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f2eded;
+}
